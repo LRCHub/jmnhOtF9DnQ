@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Pandora",
+  "base_artist": "Dr.Flower",
+  "createdAt": "2025-12-14T08:01:14.906954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Liaising Pandora",
+      "artist": "Chalice",
+      "has_synced": false,
+      "path": "select/01_Liaising_Pandora_Chalice.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pandora",
+      "artist": "Hurt",
+      "has_synced": true,
+      "path": "select/02_Pandora_Hurt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pandora",
+      "artist": "Parkway Drive",
+      "has_synced": true,
+      "path": "select/03_Pandora_Parkway_Drive.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pandora",
+      "artist": "Code Black",
+      "has_synced": false,
+      "path": "select/04_Pandora_Code_Black.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Profoundly in Love With Pandora",
+      "artist": "Ian Dury",
+      "has_synced": false,
+      "path": "select/05_Profoundly_in_Love_With_Pandora_Ian_Dury.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pandora´s Box",
+      "artist": "Procol Harum",
+      "has_synced": true,
+      "path": "select/06_Pandora_́s_Box_Procol_Harum.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pandora",
+      "artist": "Al Stewart",
+      "has_synced": false,
+      "path": "select/07_Pandora_Al_Stewart.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pandora",
+      "artist": "sadeyes",
+      "has_synced": true,
+      "path": "select/08_Pandora_sadeyes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pandora",
+      "artist": "Kara",
+      "has_synced": false,
+      "path": "select/09_Pandora_Kara.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pandora",
+      "artist": "카라 (KARA)",
+      "has_synced": false,
+      "path": "select/10_Pandora_카라_(KARA).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Esta Navidad (with Mijares, Pandora, Yuri & Sergio Facheli)",
+      "artist": "Moderatto",
+      "has_synced": true,
+      "path": "select/11_Esta_Navidad_(with_Mijares,_Pandora,_Yuri_&_Sergio_Facheli)_Moderatto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pandora",
+      "artist": "Shawn Mullins",
+      "has_synced": false,
+      "path": "select/12_Pandora_Shawn_Mullins.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "La Caja De Pandora",
+      "artist": "Tierra Santa",
+      "has_synced": true,
+      "path": "select/13_La_Caja_De_Pandora_Tierra_Santa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pandora",
+      "artist": "RISHLOO",
+      "has_synced": false,
+      "path": "select/14_Pandora_RISHLOO.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Box of Pandora",
+      "artist": "Sybyr",
+      "has_synced": true,
+      "path": "select/15_Box_of_Pandora_Sybyr.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pandora",
+      "artist": "Dr.Flower",
+      "has_synced": false,
+      "path": "select/pl_01_Pandora_Dr.Flower.txt"
+    }
+  ]
+}
